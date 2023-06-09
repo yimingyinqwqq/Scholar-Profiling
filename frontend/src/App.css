@@ -1,0 +1,13 @@
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.input-group-custom {
+  max-width: 100%; /* Adjust the value as needed */
+}
